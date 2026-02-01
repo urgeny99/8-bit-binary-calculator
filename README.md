@@ -1,1 +1,1 @@
-# 8-bit-binary-calculaor
+# 8-bit-binary-calculator
