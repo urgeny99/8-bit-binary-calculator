@@ -1,7 +1,7 @@
 # 8-bit-binary-calculator
 ## This is an 8-bit adder that adds two 8-bit numbers together (255+255).
 
-### How it works and what parts I used:
+### How It Works & Parts Used:
 
 
 
