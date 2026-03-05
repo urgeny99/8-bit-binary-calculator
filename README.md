@@ -3,6 +3,9 @@
 
 ### How it works and what parts i used:
 
+
+
+
 - 4x quad XOR gates (SN74HC86)
 - 4x quad AND gates (SN74HC08)
 - 2x quad OR gates (SN74HC32)
@@ -15,6 +18,7 @@
 #### HOW IT WORKS
 
 The adder works by having 8 + 8 inputs (A0-A7; B0-B7) and taking them into half and full adders.
+Use the DIP-switches to set the input values, and read LED output.
 The Half adder looks like this | And this is a Full adder 
 :------:|:---------:
 <img width="381" height="266" alt="image" src="https://github.com/user-attachments/assets/b57e6bd5-c22d-472a-a64f-65bf5d39abb2" /> | <img width="904" height="415" alt="image" src="https://github.com/user-attachments/assets/e7edaca3-380e-4c40-aa0c-01b11939539b" />
